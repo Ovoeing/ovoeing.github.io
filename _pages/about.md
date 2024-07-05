@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [The No.1 middle High School of Hunan Shao Yang](http://www.sysyz.com.cn/)
+I'm a graduate student from [The No.1 High School of Hunan Shao Yang](http://www.sysyz.com.cn/)
 
 I created many course for useful skills which could help you to recognize some knowledges for XPOESD & Android reverse
 
