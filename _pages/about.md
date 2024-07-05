@@ -14,4 +14,4 @@ I created many course for useful skills which could help you to recognize some k
 
 You can find my Course here: [Ovoeing's Course](https://shimo.im/docs/8Nk6e264YZsbK2qL).
 
-[Email](ovoeing@gmail.com) / [Github](https://github.com/Ovoeing) / [Wechat](../images/wechat.jpg) / [QQ](https://qm.qq.com/q/kYmsKYUIPm) / [Twitter](https://fxtwitter.com/Ovoeing) / [Telegram]（https://t.me/Secure_Contain_Protect_CN）
+[Email](ovoeing@gmail.com) / [Github](https://github.com/Ovoeing) / [Wechat](../images/wechat.jpg) / [QQ](https://qm.qq.com/q/kYmsKYUIPm) / [Twitter](https://fxtwitter.com/Ovoeing) / [Telegram](https://t.me/Secure_Contain_Protect_CN)
