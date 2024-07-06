@@ -1,6 +1,6 @@
 # main links links
 main:
   - title: "AI"
-    url: /AI/
+    url: "https://raw.githubusercontent.com/Ovoeing/ovoeing.github.io/master/AI/AI.md"
   - title: "Guide"
     url: /markdown/
