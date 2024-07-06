@@ -1,4 +1,5 @@
 ---
+permalink: /AI/
 title: "AI"
 type: "Share"
 date: "2024-07-06"
